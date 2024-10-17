@@ -1,0 +1,22 @@
+header{
+  width: 100%;
+  box-shadow: 0 5px 3.5px rgba(0, 0,0, 0.331);
+  padding: 25px;
+}
+
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+button{
+  background-color: orange;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  color: #fff;
+}
+nav h1{
+  color: green;
+}

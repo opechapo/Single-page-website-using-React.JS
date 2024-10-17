@@ -1,0 +1,13 @@
+.heroContainer{
+ display: flex;
+ justify-content: space-around;
+ padding: 20px;
+ align-items: center;
+ height: 75vh;
+}
+.imgContainer img{
+ height: 25rem;
+ width: 20rem;
+ border-radius: 10px;
+ /* margin-top: 100px; */
+}
